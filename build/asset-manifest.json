@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/BeeJee/static/css/main.0c5aea3f.chunk.css",
+    "main.js": "/BeeJee/static/js/main.8678c4c6.chunk.js",
+    "main.js.map": "/BeeJee/static/js/main.8678c4c6.chunk.js.map",
+    "runtime-main.js": "/BeeJee/static/js/runtime-main.d660e3f5.js",
+    "runtime-main.js.map": "/BeeJee/static/js/runtime-main.d660e3f5.js.map",
+    "static/js/2.a61a90e5.chunk.js": "/BeeJee/static/js/2.a61a90e5.chunk.js",
+    "static/js/2.a61a90e5.chunk.js.map": "/BeeJee/static/js/2.a61a90e5.chunk.js.map",
+    "index.html": "/BeeJee/index.html",
+    "precache-manifest.b98dc81aaa1a6d56d1c17a9b32c9c93b.js": "/BeeJee/precache-manifest.b98dc81aaa1a6d56d1c17a9b32c9c93b.js",
+    "service-worker.js": "/BeeJee/service-worker.js",
+    "static/css/main.0c5aea3f.chunk.css.map": "/BeeJee/static/css/main.0c5aea3f.chunk.css.map",
+    "static/js/2.a61a90e5.chunk.js.LICENSE.txt": "/BeeJee/static/js/2.a61a90e5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d660e3f5.js",
+    "static/js/2.a61a90e5.chunk.js",
+    "static/css/main.0c5aea3f.chunk.css",
+    "static/js/main.8678c4c6.chunk.js"
+  ]
+}
