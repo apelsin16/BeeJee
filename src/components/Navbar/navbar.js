@@ -32,10 +32,13 @@ export default class Navbar extends Component {
     render() {
         return (
             <nav aria-label="breadcrumb" >
-
                 {
-                    this.props.isLogged !== '' ?
-                        <p className="breadcrumb d-flex justify-content-end">You logged in</p> :
+                    this.props.isLogged ?
+                        <p className="breadcrumb d-flex justify-content-end">You logged in
+                        <button
+                            className='btn btn-primary'
+                            onClick={this.props.logOut}>Log Out</button>
+                        </p> :
                         <form onSubmit={this.handleSubmit} className="breadcrumb d-flex justify-content-end">
                             <div className="form-group">
                                 <label className="m-2">username

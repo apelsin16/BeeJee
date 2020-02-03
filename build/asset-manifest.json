@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/BeeJee/build/static/css/main.0c5aea3f.chunk.css",
-    "main.js": "/BeeJee/build/static/js/main.e8dc614f.chunk.js",
-    "main.js.map": "/BeeJee/build/static/js/main.e8dc614f.chunk.js.map",
+    "main.js": "/BeeJee/build/static/js/main.b6c9f2a2.chunk.js",
+    "main.js.map": "/BeeJee/build/static/js/main.b6c9f2a2.chunk.js.map",
     "runtime-main.js": "/BeeJee/build/static/js/runtime-main.44d7955b.js",
     "runtime-main.js.map": "/BeeJee/build/static/js/runtime-main.44d7955b.js.map",
-    "static/js/2.a61a90e5.chunk.js": "/BeeJee/build/static/js/2.a61a90e5.chunk.js",
-    "static/js/2.a61a90e5.chunk.js.map": "/BeeJee/build/static/js/2.a61a90e5.chunk.js.map",
+    "static/js/2.171ab8d3.chunk.js": "/BeeJee/build/static/js/2.171ab8d3.chunk.js",
+    "static/js/2.171ab8d3.chunk.js.map": "/BeeJee/build/static/js/2.171ab8d3.chunk.js.map",
     "index.html": "/BeeJee/build/index.html",
-    "precache-manifest.dce9ace9da6fbabc3e4a37d507a9b359.js": "/BeeJee/build/precache-manifest.dce9ace9da6fbabc3e4a37d507a9b359.js",
+    "precache-manifest.c563c799011bfdf5c8490af8b0849ed5.js": "/BeeJee/build/precache-manifest.c563c799011bfdf5c8490af8b0849ed5.js",
     "service-worker.js": "/BeeJee/build/service-worker.js",
     "static/css/main.0c5aea3f.chunk.css.map": "/BeeJee/build/static/css/main.0c5aea3f.chunk.css.map",
-    "static/js/2.a61a90e5.chunk.js.LICENSE.txt": "/BeeJee/build/static/js/2.a61a90e5.chunk.js.LICENSE.txt"
+    "static/js/2.171ab8d3.chunk.js.LICENSE.txt": "/BeeJee/build/static/js/2.171ab8d3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.44d7955b.js",
-    "static/js/2.a61a90e5.chunk.js",
+    "static/js/2.171ab8d3.chunk.js",
     "static/css/main.0c5aea3f.chunk.css",
-    "static/js/main.e8dc614f.chunk.js"
+    "static/js/main.b6c9f2a2.chunk.js"
   ]
 }
